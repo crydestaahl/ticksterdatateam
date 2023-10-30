@@ -20,7 +20,7 @@
   "nav_button": {
     "enable": true,
     "label": "Kontakta oss",
-    "link": "/contact"
+    "link": "/kontakt"
   },
 
   "params": {

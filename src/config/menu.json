@@ -1,20 +1,20 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Hem",
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Nyheter",
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Pris",
       "url": "/pricing"
     },
     {
       "name": "Contact",
-      "url": "/contact"
+      "url": "/kontakt"
     },
     {
       "name": "FAQ",
