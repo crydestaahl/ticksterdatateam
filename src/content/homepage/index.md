@@ -4,8 +4,8 @@ banner:
   content: Optimera din webbanalys med Google Tag Manager och Trixter Data team. Är du trött på att hantera dussintals spårningskoder och analysskript manuellt på din webbplats? Med Google Tag Manager kan du säkerställa smidig och effektiv dataanalys utan krångel.
   image: /images/banner-art.png
   button:
-    label: "Kontakta oss"
-    link: "/contact"
+    label: "Köp biljetter"
+    link: "https://secure.tickster.com/z9umex3wwdtmn4j"
     enable: true
 
 # feature
