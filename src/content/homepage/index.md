@@ -10,7 +10,7 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Detta får du
   features:
     - name: "Clean Code"
       icon: "/images/code.svg"

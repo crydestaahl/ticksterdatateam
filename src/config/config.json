@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "Trixster Data Team",
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -19,7 +19,7 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Kontakta oss",
     "link": "/contact"
   },
 
