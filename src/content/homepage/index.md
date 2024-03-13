@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.png
   button:
     label: "Köp biljetter"
-    link: "https://secure.tickster.com/z9umex3wwdtmn4j"
+    link: "https://secure.tickster.com/z9umex3wwdtmn4j/?utm_source=datateam.netlify.com&utm_medium=banner&utm_campaign=sommersale"
     enable: true
 
 # feature
