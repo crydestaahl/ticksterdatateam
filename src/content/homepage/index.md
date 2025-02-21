@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.png
   button:
     label: "Köp biljetter"
-    link: "https://secure.tickster.com/z9umex3wwdtmn4j/&gclid=1234&utm_source=hej"
+    link: "https://secure.tickster.com/z9umex3wwdtmn4j/&gclid=TeSter-123&utm_source=hej"
     enable: true
 
 # feature
