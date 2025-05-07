@@ -3,26 +3,6 @@
     {
       "name": "Hem",
       "url": "/"
-    },
-    {
-      "name": "Nyheter",
-      "url": "/blog"
-    },
-    {
-      "name": "Pris",
-      "url": "/pricing"
-    },
-    {
-      "name": "Contact",
-      "url": "/kontakt"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
