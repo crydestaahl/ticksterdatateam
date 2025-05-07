@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Trixter Data Team
-  content: SuperPurple live i Göteborg – Blues när den är som bäst! Den 22 maj 2025 intar det hyllade bandet SuperPurple scenen i Göteborg för en kväll fylld av känsla, sväng och rå energi. Med sitt unika sound som blandar traditionell blues med en modern twist har SuperPurple snabbt blivit ett måste för alla musikälskare.
-  image: /images/super.png
+  title: Super Purple
+  content: Den 22 maj 2025 intar det hyllade bandet SuperPurple scenen i Göteborg för en kväll fylld av känsla, sväng och rå energi. Med sitt unika sound som blandar traditionell blues med en modern twist har SuperPurple snabbt blivit ett måste för alla musikälskare.
+  image: /images/banner-art.png
   button:
     label: "Köp biljetter"
     link: "https://secure.tickster.com/ddy7w4dn74lmvph"
