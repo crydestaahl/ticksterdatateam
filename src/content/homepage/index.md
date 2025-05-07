@@ -1,11 +1,11 @@
 ---
 banner:
-  title: Trixter Data Team
-  content: Optimera din webbanalys med Google Tag Manager och Trixter Data team. Är du trött på att hantera dussintals spårningskoder och analysskript manuellt på din webbplats? Med Google Tag Manager kan du säkerställa smidig och effektiv dataanalys utan krångel.
+  title: Super Purple
+  content: Den 22 maj 2025 intar det hyllade bandet SuperPurple scenen i Göteborg för en kväll fylld av känsla, sväng och rå energi. Med sitt unika sound som blandar traditionell blues med en modern twist har SuperPurple snabbt blivit ett måste för alla musikälskare.
   image: /images/banner-art.png
   button:
     label: "Köp biljetter"
-    link: "https://secure.tickster.com/z9umex3wwdtmn4j/&gclid=TeSter-123&utm_source=hej"
+    link: "https://secure.tickster.com/ddy7w4dn74lmvph"
     enable: true
 
 # feature
